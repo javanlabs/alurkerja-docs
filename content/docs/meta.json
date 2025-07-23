@@ -1,0 +1,26 @@
+{
+    "pages": [
+        "---Intro---",
+        "index",
+        "why",
+        "glossary",
+        "faq",
+        "---Dokumentasi---",
+        "dokumentasi/company-profile",
+        "dokumentasi/org-chart",
+        "dokumentasi/...",
+        "---Digitalisasi---",
+        "digitalisasi/form",
+        "digitalisasi/deploy",
+        "digitalisasi/...",
+        "---Automasi---",
+        "automasi/notifikasi",
+        "automasi/odoo",
+        "automasi/...",
+        "---Akun---",
+        "account/registration",
+        "account/login",
+        "account/forgot-password",
+        "account/subscription"
+    ]
+}
