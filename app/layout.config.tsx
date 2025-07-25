@@ -21,7 +21,6 @@ export const baseOptions: BaseLayoutProps = {
       icon: <ExternalLinkIcon />,
       text: 'Website',
       url: 'https://alurkerja.com',
-      secondary: true
     },
     {
       icon: <ExternalLinkIcon />,
